@@ -1,0 +1,15 @@
+{
+  "name": "tad_validator",
+  "version": "1.0.0",
+  "authors": [
+    "Luca Tumedei <luca@theaveragedev.com>"
+  ],
+  "description": "Validate WordPress from WordPress",
+  "main": "tad_validator.php",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "license": "GPL 2.0",
+  "homepage": "http://theaveragedev.com"
+}
